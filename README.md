@@ -26,11 +26,6 @@ Hi there, I'm Shaun Kibaba 👋🏽
 - [![Email](https://img.shields.io/badge/-kibabashaun@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kibabashaun@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-Shaun%20Kibaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaun-k-97b947270/)](https://www.linkedin.com/in/shaun-k-97b947270/)
 
-🔗 Featured Projects
-- Here are some projects I have worked on:
-1. *[Portfolio Website](https://github.com/ShaunKibaba/portfolio-website)*  
-   A responsive portfolio website showcasing my skills and projects, built using HTML, CSS, and Bootstrap.
-
 
 <!---
 shaunkibz/shaunkibz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
