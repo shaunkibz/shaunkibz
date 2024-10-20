@@ -1,7 +1,7 @@
 Hi there, I'm Shaun Kibaba 👋🏽
 
 💻 About Me
-- 🎓 _Currently pursuing IT at KCA University.
+- 🎓 Currently pursuing IT at KCA University.
 - 🖥 Passionate about data science and web development, continuously improving my skills in these fields._
 
 🎯 Goals & Interests
